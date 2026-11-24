@@ -1,8 +1,4 @@
-"""
-Streamlit UI for the document RAG chatbot.
 
-Run:  streamlit run app.py
-"""
 
 import os
 import time

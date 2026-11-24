@@ -1,9 +1,4 @@
-"""
-Document RAG: load any document, chunk, embed locally, retrieve, answer with Gemini.
 
-Supported files: PDF, DOCX, TXT, MD, CSV.
-Index is persisted in ./data so documents survive restarts.
-"""
 
 from __future__ import annotations
 
